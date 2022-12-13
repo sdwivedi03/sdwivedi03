@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sdwivedi03
-- 👀 I’m interested in machine learning and system desing
+- 👀 I’m an software developer working as nodejs developer
 - 🌱 I’m currently learning tensorflowjs
 - 💞️ I’m looking to collaborate on nodejs application and tensorflowjs application
 - 📫 Email me on satyam.dwivedi825@gmail.com
